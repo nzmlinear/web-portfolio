@@ -12,6 +12,7 @@ h1{
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 25px;
+    font-weight: 500;
 }
 .Orange-view{
     color: indigo;
@@ -34,4 +35,12 @@ p{
 section{
     height: 500px;
 }
-
+a{
+   text-decoration: none; 
+   color: aliceblue;
+   background-image: linear-gradient(indigo,rgb(63, 30, 82));
+   padding: 10px 30px;
+   border-radius: 10px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: 600;
+}
